@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Perkalian/3.unity
+- path: Assets/Scenes/Perkalian/1.unity
   isLoaded: 1
   isActive: 1
