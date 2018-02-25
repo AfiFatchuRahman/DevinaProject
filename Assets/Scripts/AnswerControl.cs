@@ -8,7 +8,7 @@ public class AnswerControl : MonoBehaviour {
 	public string answer;
 	public string key;
 
-	public Sprite[] lockAnswerImg = new Sprite[4];
+	Sprite[] lockAnswerImg = new Sprite[4];
 
 	// Use this for initialization
 	void Start () {
@@ -27,7 +27,7 @@ public class AnswerControl : MonoBehaviour {
 	{
 		lockAnswer ();
 		SelectAndDisableButton (this.gameObject.name, true);
-		Invoke ("Result", 0.5f);
+		Invoke ("Result", 1f);
 	}
 
 	private void Result()
