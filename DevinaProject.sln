@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{1F9B4ED6-8E74-568F-0A4E-248A8CC0DB3F}") = "DevinaProject", "Assembly-CSharp.csproj", "{02EB22B3-7B17-97C8-CB3E-42DAB39769A3}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevinaProject", "Assembly-CSharp.csproj", "{02EB22B3-7B17-97C8-CB3E-42DAB39769A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
