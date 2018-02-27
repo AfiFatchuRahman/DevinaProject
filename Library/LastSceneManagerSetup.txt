@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Pembagian/10.unity
-=======
-- path: Assets/Scenes/Perkalian/2.unity
->>>>>>> 17d6c700a2d131d6700300e7d04b8caf7a7c073e
+- path: Assets/Scenes/Menu.unity
   isLoaded: 1
   isActive: 1
