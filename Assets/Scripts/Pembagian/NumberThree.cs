@@ -17,6 +17,12 @@ public class NumberThree : MonoBehaviour {
 		
 	}
 
+	public void Pause()
+	{
+		GameObject.FindWithTag ("Pause").GetComponent<RectTransform> ().offsetMax = new Vector2 (0,0); 
+		GameObject.FindWithTag ("Pause").GetComponent<RectTransform> ().offsetMin = new Vector2 (0,0); 
+	}
+
 	public void play()
 	{
 		StartCoroutine (PlayAnimasi());
@@ -26,9 +32,15 @@ public class NumberThree : MonoBehaviour {
 	{
 		yield return new WaitForSeconds (1f);
 		Apples [8].transform.DOMove (new Vector3(-2.74f,-1.14f,-1f),1f);
+<<<<<<< HEAD
 		yield return new WaitForSeconds (1f);
 		Apples [7].transform.DOMove (new Vector3(-2.74f + 5.6f,-1.14f,-1f),1f);
 		yield return new WaitForSeconds (1f);
+=======
+		yield return new WaitForSeconds (1f);
+		Apples [7].transform.DOMove (new Vector3(-2.74f + 5.6f,-1.14f,-1f),1f);
+		yield return new WaitForSeconds (1f);
+>>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
 		Apples [6].transform.DOMove (new Vector3(-2.74f + 5.6f + 1.2f,-1.14f,-1f),1f);
 
 
@@ -41,9 +53,15 @@ public class NumberThree : MonoBehaviour {
 
 		yield return new WaitForSeconds (1f);
 		Apples [2].transform.DOMove (new Vector3(-2.74f + 0.17f + 0.17f,-1.14f,-1f),1f);
+<<<<<<< HEAD
 		yield return new WaitForSeconds (1f);
 		Apples [1].transform.DOMove (new Vector3(-2.74f + 0.17f + 0.17f + 5.6f,-1.14f,-1f),1f);
 		yield return new WaitForSeconds (1f);
+=======
+		yield return new WaitForSeconds (1f);
+		Apples [1].transform.DOMove (new Vector3(-2.74f + 0.17f + 0.17f + 5.6f,-1.14f,-1f),1f);
+		yield return new WaitForSeconds (1f);
+>>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
 		Apples [0].transform.DOMove (new Vector3(-2.74f + 0.17f + 0.17f + 5.6f + 1.2f,-1.14f,-1f),1f);
 
 		yield return new WaitForSeconds (1f);

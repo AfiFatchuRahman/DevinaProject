@@ -64,6 +64,12 @@
      <Compile Include="Assets\Scripts\Pembagian\NumberThree.cs" />
      <Compile Include="Assets\Scripts\Pembagian\NumberTwo.cs" />
      <Compile Include="Assets\Scripts\Perkalian\NumberOne.cs" />
+     <Compile Include="Assets\Scripts\Perkalian\XNumberEnam.cs" />
+     <Compile Include="Assets\Scripts\Perkalian\XNumberTwo.cs" />
+     <Compile Include="Assets\Scripts\Scenes\LevelSceneControl.cs" />
+     <Compile Include="Assets\Scripts\Scenes\LevelSelect.cs" />
+     <Compile Include="Assets\Scripts\Scenes\MainMenu.cs" />
+     <Compile Include="Assets\Scripts\Scenes\PauseControl.cs" />
      <Compile Include="Assets\Scripts\Uang\NomorDua.cs" />
      <Compile Include="Assets\Scripts\Uang\NomorEmpat.cs" />
      <Compile Include="Assets\Scripts\Uang\NomorLima.cs" />
@@ -137,15 +143,16 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="DOTween">
- <HintPath>D:/Ikeh Ikeh Kimochi/DevinaProject/Assets/DOTween/DOTween.dll</HintPath>
+ <HintPath>E:/WayToFun Studio/Devina/GameOfDevina/DevinaProject/Assets/DOTween/DOTween.dll</HintPath>
  </Reference>
  <Reference Include="DOTween43">
- <HintPath>D:/Ikeh Ikeh Kimochi/DevinaProject/Assets/DOTween/DOTween43.dll</HintPath>
+ <HintPath>E:/WayToFun Studio/Devina/GameOfDevina/DevinaProject/Assets/DOTween/DOTween43.dll</HintPath>
  </Reference>
  <Reference Include="DOTween46">
- <HintPath>D:/Ikeh Ikeh Kimochi/DevinaProject/Assets/DOTween/DOTween46.dll</HintPath>
+ <HintPath>E:/WayToFun Studio/Devina/GameOfDevina/DevinaProject/Assets/DOTween/DOTween46.dll</HintPath>
  </Reference>
  <Reference Include="DOTween50">
+<<<<<<< HEAD
  <HintPath>D:/Ikeh Ikeh Kimochi/DevinaProject/Assets/DOTween/DOTween50.dll</HintPath>
  </Reference>
  <Reference Include="DOTweenEditor">
@@ -171,6 +178,9 @@
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>C:/Users/Bhrahma RP/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
+=======
+ <HintPath>E:/WayToFun Studio/Devina/GameOfDevina/DevinaProject/Assets/DOTween/DOTween50.dll</HintPath>
+>>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

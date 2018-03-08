@@ -1,4 +1,12 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Pembagian/bagi9.unity
+=======
+<<<<<<< HEAD
+- path: Assets/Scenes/Pembagian/bagi10.unity
+=======
+- path: Assets/Scenes/Menu.unity
+>>>>>>> da95df999c0b5eaed17e6b0189b6a4d902078f1f
+>>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
   isLoaded: 1
   isActive: 1
