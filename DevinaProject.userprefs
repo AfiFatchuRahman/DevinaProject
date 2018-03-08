@@ -1,5 +1,6 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Pembagian\NumberNine.cs">
     <Files>
       <File FileName="Assets\Scripts\AnswerControl.cs" Line="1" Column="1" />
@@ -11,6 +12,29 @@
       <File FileName="Assets\Scripts\AnimationsScripts.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Pembagian\NumberFour.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Pembagian\NumberFive.cs" Line="1" Column="1" />
+=======
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Scenes\MainMenu.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Perkalian\NumberOne.cs" Line="20" Column="1" />
+      <File FileName="Assets\Scripts\Perkalian\XNumberTwo.cs" Line="24" Column="3" />
+      <File FileName="Assets\Scripts\Perkalian\XNumberEnam.cs" Line="20" Column="2" />
+      <File FileName="Assets\Scripts\Scenes\LevelSelect.cs" Line="37" Column="39" />
+      <File FileName="Assets\Scripts\Scenes\MainMenu.cs" Line="47" Column="23" />
+      <File FileName="Assets\Scripts\Scenes\LevelSceneControl.cs" Line="18" Column="31" />
+      <File FileName="Assets\Scripts\Scenes\PauseControl.cs" Line="20" Column="94" />
+      <File FileName="Assets\Scripts\AnimationsScripts.cs" Line="22" Column="3" />
+      <File FileName="Assets\Scripts\Pembagian\NumberFive.cs" Line="24" Column="3" />
+      <File FileName="Assets\Scripts\Pembagian\NumberFour.cs" Line="22" Column="3" />
+      <File FileName="Assets\Scripts\Pembagian\NumberSix.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Pembagian\NumberTen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Pembagian\NumberThree.cs" Line="24" Column="3" />
+      <File FileName="Assets\Scripts\Pembagian\NumberTwo.cs" Line="23" Column="3" />
+      <File FileName="Assets\Scripts\Uang\NomorSatu.cs" Line="30" Column="29" />
+      <File FileName="Assets\Scripts\Uang\NomorDua.cs" Line="32" Column="8" />
+      <File FileName="Assets\Scripts\Uang\NomorTiga.cs" Line="19" Column="2" />
+      <File FileName="Assets\Scripts\Uang\NomorEmpat.cs" Line="24" Column="2" />
+      <File FileName="Assets\Scripts\Uang\NomorLima.cs" Line="23" Column="3" />
+>>>>>>> da95df999c0b5eaed17e6b0189b6a4d902078f1f
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
