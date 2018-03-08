@@ -35,17 +35,6 @@ public class AnimationsScripts : MonoBehaviour {
 		yield return new WaitForSeconds (1f);	
 		breads [5].transform.DOMove (new Vector3(5.195f, -1.081f+0.2f, 0), 1f);
 		yield return new WaitForSeconds (1f);	
-		breads [6].transform.DOMove (new Vector3(0.585f, -0.899f+0.2f, 0), 1f);
-		yield return new WaitForSeconds (1f);	
-		breads [7].transform.DOMove (new Vector3(2.725f, -0.899f+0.2f, 0), 1f);
-		yield return new WaitForSeconds (1f);	
-		breads [8].transform.DOMove (new Vector3(4.834f, -0.899f+0.2f, 0), 1f);
-		yield return new WaitForSeconds (1f);	
-		breads [9].transform.DOMove (new Vector3(1.012f, -0.899f+0.2f, 0), 1f);
-		yield return new WaitForSeconds (1f);	
-		breads [10].transform.DOMove (new Vector3(3.134f, -0.899f+0.2f, 0), 1f);
-		yield return new WaitForSeconds (1f);	
-		breads [11].transform.DOMove (new Vector3(5.274f, -0.899f+0.2f, 0), 1f);
-		yield return new WaitForSeconds (1f);	
+			
 	}
 }
