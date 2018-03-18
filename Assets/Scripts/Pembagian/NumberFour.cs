@@ -30,7 +30,6 @@ public class NumberFour : MonoBehaviour {
 	{
 		yield return new WaitForSeconds (1f);
 		oranges [19].transform.DOMove (new Vector3(0.90f,0.12f,0f),1f);
-<<<<<<< HEAD
 		yield return new WaitForSeconds (1f);
 		oranges [18].transform.DOMove (new Vector3(-0.20f,0.25f,0f),1f);
 		yield return new WaitForSeconds (1f);
@@ -70,8 +69,6 @@ public class NumberFour : MonoBehaviour {
 		yield return new WaitForSeconds (1f);
 		oranges [0].transform.DOMove (new Vector3(-3.90f+ 0.10f,0.3f+ 0.13f,0f),1f);
 		yield return new WaitForSeconds (1f);
-=======
-		yield return new WaitForSeconds (1f);
 		oranges [18].transform.DOMove (new Vector3(-0.20f,0.25f,0f),1f);
 		yield return new WaitForSeconds (1f);
 		oranges [17].transform.DOMove (new Vector3(-1.40f,0.05f,0f),1f);
@@ -110,8 +107,5 @@ public class NumberFour : MonoBehaviour {
 		yield return new WaitForSeconds (1f);
 		oranges [0].transform.DOMove (new Vector3(-3.90f+ 0.10f,0.3f+ 0.13f,0f),1f);
 		yield return new WaitForSeconds (1f);
->>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
-
-
 	}
 }
