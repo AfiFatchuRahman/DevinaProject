@@ -5,9 +5,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
+=======
+>>>>>>> parent of ebfa36d... pembagian
 =======
 >>>>>>> parent of ebfa36d... pembagian
 =======
@@ -23,6 +26,7 @@
       <File FileName="Assets\Scripts\AnimationsScripts.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Pembagian\NumberFour.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Pembagian\NumberFive.cs" Line="1" Column="1" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -75,6 +79,8 @@
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
+=======
+>>>>>>> parent of ebfa36d... pembagian
 =======
 >>>>>>> parent of ebfa36d... pembagian
 =======

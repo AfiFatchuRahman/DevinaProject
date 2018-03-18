@@ -173,6 +173,7 @@
  <HintPath>C:/Users/Bhrahma RP/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  </Reference>
  <Reference Include="DOTweenEditor">
  <HintPath>E:/WayToFun Studio/Devina/GameOfDevina/DevinaProject/Assets/DOTween/Editor/DOTweenEditor.dll</HintPath>
@@ -197,6 +198,8 @@
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>C:/Users/VIDA/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
+=======
+>>>>>>> parent of ebfa36d... pembagian
 =======
 >>>>>>> parent of ebfa36d... pembagian
 =======

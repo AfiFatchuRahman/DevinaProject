@@ -26,11 +26,15 @@ MonoBehaviour:
   m_RootView: {fileID: 2}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 950, y: 371}
 <<<<<<< HEAD
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
+=======
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> parent of ebfa36d... pembagian
 =======
   m_MinSize: {x: 950, y: 300}
 >>>>>>> parent of ebfa36d... pembagian
@@ -154,11 +158,15 @@ MonoBehaviour:
   vertical: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 53700
 <<<<<<< HEAD
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
+=======
+  controlID: 98
+>>>>>>> parent of ebfa36d... pembagian
 =======
   controlID: 98
 >>>>>>> parent of ebfa36d... pembagian
@@ -196,11 +204,15 @@ MonoBehaviour:
   vertical: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 53701
 <<<<<<< HEAD
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
+=======
+  controlID: 99
+>>>>>>> parent of ebfa36d... pembagian
 =======
   controlID: 99
 >>>>>>> parent of ebfa36d... pembagian
@@ -227,6 +239,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1366
     height: 30
   m_MinSize: {x: 0, y: 0}
@@ -242,10 +255,14 @@ MonoBehaviour:
 =======
     width: 759
 >>>>>>> parent of ebfa36d... pembagian
+=======
+    width: 759
+>>>>>>> parent of ebfa36d... pembagian
     height: 635
   m_MinSize: {x: 202, y: 321}
   m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   controlID: 53702
@@ -253,6 +270,9 @@ MonoBehaviour:
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
+=======
+  controlID: 79
+>>>>>>> parent of ebfa36d... pembagian
 =======
   controlID: 79
 >>>>>>> parent of ebfa36d... pembagian
@@ -277,6 +297,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 665
     width: 1366
     height: 20
@@ -286,6 +307,11 @@ MonoBehaviour:
     y: 0
     width: 849
     height: 484
+=======
+    y: 0
+    width: 759
+    height: 472
+>>>>>>> parent of ebfa36d... pembagian
 =======
     y: 0
     width: 759
@@ -326,9 +352,15 @@ MonoBehaviour:
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 484
     width: 849
     height: 151
+=======
+    y: 472
+    width: 759
+    height: 163
+>>>>>>> parent of ebfa36d... pembagian
 =======
     y: 472
     width: 759
@@ -362,9 +394,15 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 849
     y: 0
     width: 235
+=======
+    x: 759
+    y: 0
+    width: 276
+>>>>>>> parent of ebfa36d... pembagian
 =======
     x: 759
     y: 0
@@ -404,8 +442,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
 =======
+=======
+>>>>>>> parent of ebfa36d... pembagian
 =======
 >>>>>>> parent of ebfa36d... pembagian
     x: 1035
@@ -413,6 +454,7 @@ MonoBehaviour:
     y: 0
     width: 1089
     height: 635
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_MinSize: {x: 406, y: 492}
@@ -435,6 +477,12 @@ MonoBehaviour:
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
   controlID: 53760
+=======
+  m_MinSize: {x: 277, y: 271}
+  m_MaxSize: {x: 4002, y: 8021}
+  vertical: 1
+  controlID: 144
+>>>>>>> parent of ebfa36d... pembagian
 =======
   m_MinSize: {x: 277, y: 271}
   m_MaxSize: {x: 4002, y: 8021}
@@ -470,6 +518,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1089
     height: 364
   m_MinSize: {x: 406, y: 221}
@@ -483,6 +532,8 @@ MonoBehaviour:
     width: 282
     height: 245
 =======
+=======
+>>>>>>> parent of ebfa36d... pembagian
 =======
 >>>>>>> parent of ebfa36d... pembagian
     width: 331
@@ -514,6 +565,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 269
     y: 0
     width: 820
@@ -527,6 +579,8 @@ MonoBehaviour:
     width: 282
     height: 390
 =======
+=======
+>>>>>>> parent of ebfa36d... pembagian
 =======
 >>>>>>> parent of ebfa36d... pembagian
     x: 0
@@ -573,8 +627,13 @@ MonoBehaviour:
     y: 19
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 847
     height: 463
+=======
+    width: 757
+    height: 451
+>>>>>>> parent of ebfa36d... pembagian
 =======
     width: 757
     height: 451
@@ -594,6 +653,7 @@ MonoBehaviour:
     m_VRangeLocked: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -530.6667
     m_HBaseRangeMax: 530.6667
     m_VBaseRangeMin: -298.5
@@ -601,11 +661,16 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of ebfa36d... pembagian
+=======
+>>>>>>> parent of ebfa36d... pembagian
     m_HBaseRangeMin: -378.5
     m_HBaseRangeMax: 378.5
     m_VBaseRangeMin: -212.90625
     m_VBaseRangeMax: 212.90625
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of ebfa36d... pembagian
+=======
 >>>>>>> parent of ebfa36d... pembagian
 =======
 >>>>>>> parent of ebfa36d... pembagian
@@ -627,6 +692,7 @@ MonoBehaviour:
       y: 17
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 1366
       height: 597
     m_Scale: {x: 1, y: 1}
@@ -634,11 +700,16 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of ebfa36d... pembagian
+=======
+>>>>>>> parent of ebfa36d... pembagian
       width: 757
       height: 434
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 378.5, y: 217}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of ebfa36d... pembagian
+=======
 >>>>>>> parent of ebfa36d... pembagian
 =======
 >>>>>>> parent of ebfa36d... pembagian
@@ -650,6 +721,7 @@ MonoBehaviour:
       serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       x: -683
       y: -298.5
       width: 1366
@@ -657,11 +729,16 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of ebfa36d... pembagian
+=======
+>>>>>>> parent of ebfa36d... pembagian
       x: -378.5
       y: -217
       width: 757
       height: 434
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of ebfa36d... pembagian
+=======
 >>>>>>> parent of ebfa36d... pembagian
 =======
 >>>>>>> parent of ebfa36d... pembagian
@@ -671,7 +748,11 @@ MonoBehaviour:
   m_CurrentColorSpace: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 1366, y: 614}
+=======
+  m_LastWindowPixelSize: {x: 757, y: 451}
+>>>>>>> parent of ebfa36d... pembagian
 =======
   m_LastWindowPixelSize: {x: 757, y: 451}
 >>>>>>> parent of ebfa36d... pembagian
@@ -707,8 +788,13 @@ MonoBehaviour:
     y: 92
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 847
     height: 463
+=======
+    width: 757
+    height: 451
+>>>>>>> parent of ebfa36d... pembagian
 =======
     width: 757
     height: 451
@@ -726,9 +812,15 @@ MonoBehaviour:
   m_Position:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -1.8226517, y: -0.34049243, z: 0.16314656}
     speed: 2
     m_Value: {x: -1.8226517, y: -0.34049243, z: 0.16314656}
+=======
+    m_Target: {x: -6.6241727, y: 1.8637884, z: 0.111318596}
+    speed: 2
+    m_Value: {x: -6.6241727, y: 1.8637884, z: 0.111318596}
+>>>>>>> parent of ebfa36d... pembagian
 =======
     m_Target: {x: -6.6241727, y: 1.8637884, z: 0.111318596}
     speed: 2
@@ -768,9 +860,15 @@ MonoBehaviour:
   m_Size:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 2.2194936
     speed: 2
     m_Value: 2.2194936
+=======
+    m_Target: 15.772104
+    speed: 2
+    m_Value: 15.772104
+>>>>>>> parent of ebfa36d... pembagian
 =======
     m_Target: 15.772104
     speed: 2
@@ -881,9 +979,15 @@ MonoBehaviour:
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 576
     width: 847
     height: 130
+=======
+    y: 564
+    width: 757
+    height: 142
+>>>>>>> parent of ebfa36d... pembagian
 =======
     y: 564
     width: 757
@@ -922,6 +1026,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 456
     width: 1087
@@ -932,6 +1037,11 @@ MonoBehaviour:
     x: 851
     y: 92
     width: 231
+=======
+    x: 761
+    y: 92
+    width: 272
+>>>>>>> parent of ebfa36d... pembagian
 =======
     x: 761
     y: 92
@@ -961,6 +1071,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/Scenes/Pembagian
 =======
     - Assets/Scripts/Pembagian
@@ -969,6 +1080,8 @@ MonoBehaviour:
     - Assets/Scripts/Pembagian
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
+=======
+>>>>>>> parent of ebfa36d... pembagian
     - Assets
 >>>>>>> parent of ebfa36d... pembagian
   m_ViewMode: 1
@@ -998,6 +1111,7 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 5a280000
     m_LastClickedID: 10330
     m_ExpandedIDs: 00000000ac270000fa280000242900009029000000ca9a3bffffff7f
@@ -1024,6 +1138,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 >>>>>>> parent of ebfa36d... pembagian
 =======
+>>>>>>> parent of ebfa36d... pembagian
+=======
+    m_SelectedIDs: b8270000
+    m_LastClickedID: 10168
+    m_ExpandedIDs: 00000000b82700004a29000074290000e029000000ca9a3bffffff7f
 >>>>>>> parent of ebfa36d... pembagian
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1056,6 +1175,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000702a0000342c00005e2c0000cc2c0000
 =======
     m_ExpandedIDs: 00000000ac270000fa280000242900009029000000ca9a3bffffff7f
@@ -1063,6 +1183,9 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 00000000ac270000fa280000242900009029000000ca9a3bffffff7f
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
+=======
+    m_ExpandedIDs: 00000000b82700004a29000074290000e0290000
+>>>>>>> parent of ebfa36d... pembagian
 =======
     m_ExpandedIDs: 00000000b82700004a29000074290000e0290000
 >>>>>>> parent of ebfa36d... pembagian
@@ -1099,6 +1222,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 
 =======
@@ -1109,6 +1233,10 @@ MonoBehaviour:
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 583400005c06000066010000f80100000c0700008008000062060000280000001e07000078030000fc0100003c0000005a0000004000000000190000401900003819000030190000281900002019000018190000f4000000ca1a000088000000a84201006a00000018010000ba000000e426000096000000c0000000c4000000a000000060ab000070db0000de0000005c390000f2550000e2550000ea550000e4000000be000000e20000004e5a00002c0100002a01000050010000da020000121d0000741d00004413fffffe2000002a11ffffea2000002c1d0000b839000086210000d8220000c01e0000181e00003c1e000066280000a81d000094560000de2d00006e1e0000721e00006c1e00006a1e0000701e000032200000e41e0000ce2e0000f81d0000c61d00004e1f0000f0340000362300008a240000e4250000daba010016230000fa2c0000863200008622000032a50100b6ac01005c220000582200002c3100005a220000e62500005e220000382200002e2b0000662d000004320000cc270000b22800009c290000c4290000fa270000
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
+=======
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: 583400005c06000066010000f80100000c0700008008000062060000280000001e07000078030000fc0100003c0000005a0000004000000000190000401900003819000030190000281900002019000018190000f4000000ca1a000088000000a84201006a00000018010000ba000000e426000096000000c0000000c4000000a000000060ab000070db0000de0000005c390000f2550000e2550000ea550000e4000000be000000e20000004e5a00002c0100002a01000050010000da020000121d0000741d00004413fffffe2000002a11ffffea2000002c1d0000b839000086210000d8220000c01e0000181e00003c1e000066280000a81d000094560000de2d00006e1e0000721e00006c1e00006a1e0000701e000032200000e41e0000ce2e0000f81d0000c61d00004e1f0000f0340000362300008a240000e4250000daba010016230000fa2c0000863200008622000032a50100b6ac01005c220000582200002c3100005a220000e62500005e220000382200002e2b0000662d000004320000cc270000b22800009c290000c4290000fa27000086290000e227000028280000
+>>>>>>> parent of ebfa36d... pembagian
 =======
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 583400005c06000066010000f80100000c0700008008000062060000280000001e07000078030000fc0100003c0000005a0000004000000000190000401900003819000030190000281900002019000018190000f4000000ca1a000088000000a84201006a00000018010000ba000000e426000096000000c0000000c4000000a000000060ab000070db0000de0000005c390000f2550000e2550000ea550000e4000000be000000e20000004e5a00002c0100002a01000050010000da020000121d0000741d00004413fffffe2000002a11ffffea2000002c1d0000b839000086210000d8220000c01e0000181e00003c1e000066280000a81d000094560000de2d00006e1e0000721e00006c1e00006a1e0000701e000032200000e41e0000ce2e0000f81d0000c61d00004e1f0000f0340000362300008a240000e4250000daba010016230000fa2c0000863200008622000032a50100b6ac01005c220000582200002c3100005a220000e62500005e220000382200002e2b0000662d000004320000cc270000b22800009c290000c4290000fa27000086290000e227000028280000
@@ -1140,6 +1268,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1195,6 +1324,10 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 159.5}
     m_GridSize: 96
 >>>>>>> parent of ebfa36d... pembagian
+=======
+    m_ScrollPosition: {x: 0, y: 159.5}
+    m_GridSize: 96
+>>>>>>> parent of ebfa36d... pembagian
   m_DirectoriesAreaWidth: 110
 --- !u!114 &20
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
@@ -1223,8 +1356,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
 =======
+=======
+>>>>>>> parent of ebfa36d... pembagian
 =======
 >>>>>>> parent of ebfa36d... pembagian
     x: 1037
@@ -1237,6 +1373,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_ExpandedIDs: 60f3ffff00000000
@@ -1269,6 +1406,9 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 9efbffff00000000
 >>>>>>> parent of ebfa36d... pembagian
+=======
+    m_ExpandedIDs: 9efbffff00000000
+>>>>>>> parent of ebfa36d... pembagian
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1291,6 +1431,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - 
 =======
   - 10
@@ -1298,6 +1439,9 @@ MonoBehaviour:
 =======
   - 10
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
+=======
+  - bagi9
+>>>>>>> parent of ebfa36d... pembagian
 =======
   - bagi9
 >>>>>>> parent of ebfa36d... pembagian
@@ -1333,6 +1477,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 271
     y: 92
     width: 816
@@ -1344,6 +1489,8 @@ MonoBehaviour:
 >>>>>>> parent of ebfa36d... pembagian
 =======
 >>>>>>> parent of ebfa36d... pembagian
+=======
+>>>>>>> parent of ebfa36d... pembagian
     x: 1091
     y: 122
     width: 275
@@ -1351,9 +1498,12 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
+=======
+>>>>>>> parent of ebfa36d... pembagian
 =======
 >>>>>>> parent of ebfa36d... pembagian
 =======
@@ -1512,6 +1662,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 456
     width: 1087
@@ -1530,11 +1681,16 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of ebfa36d... pembagian
+=======
+>>>>>>> parent of ebfa36d... pembagian
     x: 1037
     y: 389
     width: 329
     height: 317
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of ebfa36d... pembagian
+=======
 >>>>>>> parent of ebfa36d... pembagian
 =======
 >>>>>>> parent of ebfa36d... pembagian
