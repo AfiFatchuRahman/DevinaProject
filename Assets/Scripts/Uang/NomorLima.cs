@@ -16,12 +16,6 @@ public class NomorLima : MonoBehaviour {
 
 	}
 
-	public void Pause()
-	{
-		GameObject.FindWithTag ("Pause").GetComponent<RectTransform> ().offsetMax = new Vector2 (0,0); 
-		GameObject.FindWithTag ("Pause").GetComponent<RectTransform> ().offsetMin = new Vector2 (0,0); 
-	}
-
 	public void Play()
 	{
 		StartCoroutine (PlayAnimation());
