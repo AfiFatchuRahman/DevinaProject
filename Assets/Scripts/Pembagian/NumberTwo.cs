@@ -27,19 +27,11 @@ public class NumberTwo : MonoBehaviour {
 		Books [1].transform.DOMove (new Vector3 (-0.5f - 1.69f, -0.025f, 0), 1f);
 		yield return new WaitForSeconds (1f);
 		Books [3].transform.DOMove (new Vector3 (-0.5f - 1.69f, -0.025f + 0.17f, 0), 1f);
-<<<<<<< HEAD
 		yield return new WaitForSeconds (1f);
 		Books [5].transform.DOMove (new Vector3 (-0.5f - 1.69f, -0.025f + 0.34f, 0), 1f);
 		yield return new WaitForSeconds (1f);
 		Books [7].transform.DOMove (new Vector3 (-0.5f - 1.69f, -0.025f + 0.34f+ 0.17f, 0), 1f);
 		yield return new WaitForSeconds (1f);
-=======
-		yield return new WaitForSeconds (1f);
-		Books [5].transform.DOMove (new Vector3 (-0.5f - 1.69f, -0.025f + 0.34f, 0), 1f);
-		yield return new WaitForSeconds (1f);
-		Books [7].transform.DOMove (new Vector3 (-0.5f - 1.69f, -0.025f + 0.34f+ 0.17f, 0), 1f);
-		yield return new WaitForSeconds (1f);
->>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
 		Books [9].transform.DOMove (new Vector3 (-0.5f - 1.69f, -0.025f + 0.34f+ 0.17f+ 0.17f, 0), 1f);
 
 
