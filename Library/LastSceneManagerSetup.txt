@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 sceneSetups: []
 =======
 sceneSetups:
@@ -8,6 +9,10 @@ sceneSetups:
 =======
 - path: Assets/Scenes/Perkalian/2.unity
 >>>>>>> 17d6c700a2d131d6700300e7d04b8caf7a7c073e
+=======
+sceneSetups:
+- path: Assets/Scenes/Pembagian/bagi9.unity
+>>>>>>> parent of ebfa36d... pembagian
 =======
 sceneSetups:
 - path: Assets/Scenes/Pembagian/bagi9.unity

@@ -26,6 +26,7 @@ public class NumberFour : MonoBehaviour {
 		oranges [19].transform.DOMove (new Vector3(0.90f,0.12f,0f),1f);
 		yield return new WaitForSeconds (1f);
 <<<<<<< HEAD
+<<<<<<< HEAD
 		oranges [18].transform.DOMove (new Vector3(-0.20f,0.25f,0f),1f);
 		yield return new WaitForSeconds (1f);
 		oranges [17].transform.DOMove (new Vector3(-1.40f,0.05f,0f),1f);
@@ -64,6 +65,8 @@ public class NumberFour : MonoBehaviour {
 		yield return new WaitForSeconds (1f);
 		oranges [0].transform.DOMove (new Vector3(-3.90f+ 0.10f,0.3f+ 0.13f,0f),1f);
 		yield return new WaitForSeconds (1f);
+=======
+>>>>>>> parent of ebfa36d... pembagian
 =======
 >>>>>>> parent of ebfa36d... pembagian
 		oranges [18].transform.DOMove (new Vector3(-0.20f,0.25f,0f),1f);
@@ -105,7 +108,10 @@ public class NumberFour : MonoBehaviour {
 		oranges [0].transform.DOMove (new Vector3(-3.90f+ 0.10f,0.3f+ 0.13f,0f),1f);
 		yield return new WaitForSeconds (1f);
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of ebfa36d... pembagian
 
 
 >>>>>>> parent of ebfa36d... pembagian
