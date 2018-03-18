@@ -24,6 +24,7 @@ MonoBehaviour:
   vertical: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 14076
 =======
 <<<<<<< HEAD
@@ -32,6 +33,9 @@ MonoBehaviour:
   controlID: 4434
 >>>>>>> da95df999c0b5eaed17e6b0189b6a4d902078f1f
 >>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
+=======
+  controlID: 53636
+>>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
   controlID: 53636
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
@@ -138,6 +142,7 @@ MonoBehaviour:
   vertical: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 14077
 =======
 <<<<<<< HEAD
@@ -146,6 +151,9 @@ MonoBehaviour:
   controlID: 4435
 >>>>>>> da95df999c0b5eaed17e6b0189b6a4d902078f1f
 >>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
+=======
+  controlID: 53637
+>>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
   controlID: 53637
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
@@ -174,6 +182,7 @@ MonoBehaviour:
   vertical: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 14078
 =======
 <<<<<<< HEAD
@@ -182,6 +191,9 @@ MonoBehaviour:
   controlID: 4436
 >>>>>>> da95df999c0b5eaed17e6b0189b6a4d902078f1f
 >>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
+=======
+  controlID: 53638
+>>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
   controlID: 53638
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
@@ -248,6 +260,7 @@ MonoBehaviour:
   m_Position:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -2.775494, y: 0.4683612, z: 0.171875}
     speed: 2
     m_Value: {x: -2.775494, y: 0.4683612, z: 0.171875}
@@ -262,6 +275,11 @@ MonoBehaviour:
     m_Value: {x: -1.2872965, y: 0.41792077, z: 0.11230469}
 >>>>>>> da95df999c0b5eaed17e6b0189b6a4d902078f1f
 >>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
+=======
+    m_Target: {x: -0.8315237, y: -0.013860624, z: 0.09461825}
+    speed: 2
+    m_Value: {x: -0.8315237, y: -0.013860624, z: 0.09461825}
+>>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
     m_Target: {x: -0.8315237, y: -0.013860624, z: 0.09461825}
     speed: 2
@@ -296,6 +314,7 @@ MonoBehaviour:
   m_Size:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 9.718751
     speed: 2
     m_Value: 9.718751
@@ -310,6 +329,11 @@ MonoBehaviour:
     m_Value: 7.7478104
 >>>>>>> da95df999c0b5eaed17e6b0189b6a4d902078f1f
 >>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
+=======
+    m_Target: 9.029296
+    speed: 2
+    m_Value: 9.029296
+>>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
     m_Target: 9.029296
     speed: 2
@@ -535,6 +559,7 @@ MonoBehaviour:
   m_LastFolders:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - Assets/Scripts/Pembagian
   m_LastFoldersGridSize: 96
   m_LastProjectPath: D:\Ikeh Ikeh Kimochi\DevinaProject
@@ -551,17 +576,26 @@ MonoBehaviour:
 =======
   - Assets/Scripts/Pembagian
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
+=======
+  - Assets/Scripts/Pembagian
+>>>>>>> parent of 14537b2... Level Select, Pause, Quit
   m_LastFoldersGridSize: 95
   m_LastProjectPath: D:\Ikeh Ikeh Kimochi\DevinaProject
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: 3c2b0000
     m_LastClickedID: 11068
     m_ExpandedIDs: 0000000082290000c62a0000f02a00005a2b000000ca9a3bffffff7f
 >>>>>>> da95df999c0b5eaed17e6b0189b6a4d902078f1f
 >>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
+=======
+    m_SelectedIDs: 5a280000
+    m_LastClickedID: 10330
+    m_ExpandedIDs: 00000000ac270000fa280000242900009029000000ca9a3bffffff7f
+>>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
     m_SelectedIDs: 5a280000
     m_LastClickedID: 10330
@@ -596,6 +630,7 @@ MonoBehaviour:
     m_LastClickedID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000b82700004a29000074290000e029000000ca9a3bffffff7f
 =======
 <<<<<<< HEAD
@@ -604,6 +639,9 @@ MonoBehaviour:
     m_ExpandedIDs: 0000000082290000c62a0000f02a00005a2b000000ca9a3bffffff7f
 >>>>>>> da95df999c0b5eaed17e6b0189b6a4d902078f1f
 >>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
+=======
+    m_ExpandedIDs: 00000000ac270000fa280000242900009029000000ca9a3bffffff7f
+>>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
     m_ExpandedIDs: 00000000ac270000fa280000242900009029000000ca9a3bffffff7f
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
@@ -633,6 +671,7 @@ MonoBehaviour:
   m_ListAreaState:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedInstanceIDs: 762a0000
     m_LastClickedInstanceID: 10870
 =======
@@ -644,6 +683,10 @@ MonoBehaviour:
     m_LastClickedInstanceID: 19046
 >>>>>>> da95df999c0b5eaed17e6b0189b6a4d902078f1f
 >>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
+=======
+    m_SelectedInstanceIDs: ecb70100
+    m_LastClickedInstanceID: 112620
+>>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
     m_SelectedInstanceIDs: ecb70100
     m_LastClickedInstanceID: 112620
@@ -675,6 +718,7 @@ MonoBehaviour:
     m_NewAssetIndexInList: -1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ScrollPosition: {x: 0, y: 159.5}
     m_GridSize: 96
 =======
@@ -683,6 +727,9 @@ MonoBehaviour:
     m_GridSize: 96
 =======
     m_ScrollPosition: {x: 0, y: 0}
+=======
+    m_ScrollPosition: {x: 0, y: 188}
+>>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
     m_ScrollPosition: {x: 0, y: 188}
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
@@ -715,6 +762,7 @@ MonoBehaviour:
   vertical: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 14052
 =======
 <<<<<<< HEAD
@@ -723,6 +771,9 @@ MonoBehaviour:
   controlID: 4586
 >>>>>>> da95df999c0b5eaed17e6b0189b6a4d902078f1f
 >>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
+=======
+  controlID: 53491
+>>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
   controlID: 53491
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
@@ -782,6 +833,7 @@ MonoBehaviour:
   m_TreeViewState:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
@@ -799,10 +851,15 @@ MonoBehaviour:
 >>>>>>> da95df999c0b5eaed17e6b0189b6a4d902078f1f
 >>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
 =======
+=======
+>>>>>>> parent of 14537b2... Level Select, Pause, Quit
     scrollPos: {x: 0, y: 60}
     m_SelectedIDs: ecb70100
     m_LastClickedID: 112620
     m_ExpandedIDs: 9671f6ff1473f6ff2274f6ff8875f6ffe0f7f6ff38ccf8ff4acdf8ff74a8f9ff86a9f9ff9aaaf9ffeebcf9ffd2b9fcff2cbdfcff06c0fcff5242fdffe04efdff8263fdff306cfdff527afdffb281fdffec90fdffe4b5fdff1043feff1a44feff7af0ffff98f2ffff0ef5ffff3cf6ffff9efbffff00000000582f0000622f00008a2f00001a30000044300000163f0000223f0000ce3f000010400000d647000006480000c4490000024b0000304c0000a64e0000364f0000d44f00005850000088500000aa7a0000127b0000667b0000e87b0000d4fa000096040100ae040100ce3f010024400100e4400100f0400100244101003441010084ab0100a2ab010022ac010052ac0100e4b6010040b7010036b80100
+<<<<<<< HEAD
+>>>>>>> parent of 14537b2... Level Select, Pause, Quit
+=======
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -824,6 +881,7 @@ MonoBehaviour:
   m_ExpandedScenes:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - bagi10
 =======
 <<<<<<< HEAD
@@ -832,6 +890,9 @@ MonoBehaviour:
   - 10
 >>>>>>> da95df999c0b5eaed17e6b0189b6a4d902078f1f
 >>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
+=======
+  - 1
+>>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
   - 1
 >>>>>>> parent of 14537b2... Level Select, Pause, Quit
@@ -901,10 +962,15 @@ MonoBehaviour:
     width: 282
     height: 390
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> da95df999c0b5eaed17e6b0189b6a4d902078f1f
 >>>>>>> 998535260729c7f2448086e1f58fd28a88571f79
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
+=======
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> parent of 14537b2... Level Select, Pause, Quit
 =======
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
